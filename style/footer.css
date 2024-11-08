@@ -1,0 +1,17 @@
+footer {
+  display: flex;
+  padding-block: 24px;
+}
+
+footer span {
+  margin-right: auto;
+}
+footer ul {
+  display: flex;
+  justify-content: space-between;
+  gap: 24px;
+}
+
+footer li {
+  list-style: none;
+}
